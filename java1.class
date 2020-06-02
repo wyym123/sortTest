@@ -1,7 +1,7 @@
 public static void main(args[]){
     read();
-} 
+};
 
 public static void read(){
     system.out.println("1111")
-}
+};
